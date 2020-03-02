@@ -1,2 +1,0 @@
-""" JModelica test package """
-    
